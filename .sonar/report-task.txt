@@ -1,0 +1,5 @@
+projectKey=com.cognox:platzigram
+serverUrl=http://sonarqubeelb-1392068441.us-east-1.elb.amazonaws.com
+dashboardUrl=http://sonarqubeelb-1392068441.us-east-1.elb.amazonaws.com/dashboard/index/com.cognox:platzigram
+ceTaskId=AVpq8F56yLl1MEQLbS4G
+ceTaskUrl=http://sonarqubeelb-1392068441.us-east-1.elb.amazonaws.com/api/ce/task?id=AVpq8F56yLl1MEQLbS4G
